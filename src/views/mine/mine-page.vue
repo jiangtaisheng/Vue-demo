@@ -1,6 +1,6 @@
 <template>
    <div class="mine-content">
-    我的
+    我的dev_02
   </div>
 </template>
 
