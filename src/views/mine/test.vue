@@ -1,5 +1,8 @@
 <template>
-  <div>你大爷的dd dd yyds stash-test</div>
+  <div>
+     <div>你大爷的 yyds</div>
+     <div>你大娘的 yyds</div>
+  </div>
 </template>
 
 <script>
